@@ -10,24 +10,9 @@ AuPairAlemanha/
 ├── styles.css          # Estilos CSS
 ├── script.js           # JavaScript para interatividade
 ├── img/                # Pasta de imagens
-│   ├── cidade.jpg      # ✅ Já existe
-│   └── Paisagem.avif   # ✅ Já existe
+│   ├── ...             # imagens
 └── README.md           # Este arquivo
 ```
-
-## Imagens Necessárias
-
-Para que o site funcione completamente, você precisará adicionar as seguintes imagens:
-
-### Obrigatórias:
-- `logo.png` - Logo da AuPair (coloque na raiz do projeto)
-- `family-image.jpg` - Imagem de uma família com Au Pair (coloque na raiz do projeto)
-- `vij-logo.png` - Logo da parceira VIJ (coloque na raiz do projeto)
-
-### Onde encontrar/criar essas imagens:
-1. **logo.png**: Crie um logo simples com texto "AuPair" ou use o que você já tem
-2. **family-image.jpg**: Use uma imagem stock de uma família feliz ou Au Pair com crianças
-3. **vij-logo.png**: Baixe do site oficial da VIJ ou crie um placeholder
 
 ## Como Executar
 
@@ -93,14 +78,6 @@ Edite diretamente no arquivo `index.html`
 - ✅ Edge
 - ⚠️ Internet Explorer (limitado)
 
-## Próximos Passos
+## Deploy
+- Disponível em [Au Pair Plataform](https://au-pair-alemanha.vercel.app/)
 
-1. Adicionar as imagens em falta
-2. Testar em diferentes dispositivos
-3. Adicionar formulário de contato (opcional)
-4. Integrar com Google Analytics (opcional)
-5. Otimizar SEO com meta tags
-
-## Contato
-
-Para dúvidas ou suporte, entre em contato através do email: aupairintercambio@hotmail.com
